@@ -7,7 +7,7 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
 
 - **Event Orchestration**:
   - Centralized handling and processing of events using AWS Step Functions.
-  - Seamless communication between AWS services for event execution.
+  - Seamless communication between AWS services for event coordination.
 
 - **Machine Learning Integration**:
   - Utilizes the DistilBERT transformer for NLP-based event insights.
