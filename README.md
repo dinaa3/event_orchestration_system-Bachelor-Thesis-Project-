@@ -34,7 +34,7 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
    - Provides scalable infrastructure for ML inference.
 
 2. **AWS Step Functions**:
-   - Orchestrates workflows and manages event execution.
+   - Orchestrates workflows and manages event execution through lambda functions
 
 3. **AWS CloudTrail**:
    - Tracks API calls and records event logs for auditing purposes.
@@ -55,12 +55,7 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
    cd event-orchestration-system
    ```
 
-2. Set up Python environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate # On Windows: venv\Scripts\activate
-   pip install -r requirements.txt
-   ```
+2. Set up python environment
 
 
 
