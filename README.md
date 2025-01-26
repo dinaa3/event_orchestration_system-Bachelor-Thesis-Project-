@@ -30,7 +30,7 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
 ### Key AWS Services Used
 
 1. **AWS SageMaker**:
-   - Hosts and deploys machine learning models.
+   - Hosts and deploys DistilBert
    - Provides scalable infrastructure for ML inference.
 
 2. **AWS Step Functions**:
@@ -39,8 +39,7 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
 3. **AWS CloudTrail**:
    - Tracks API calls and records event logs for auditing purposes.
 
-4. **AWS EC2**:
-   - Hosts custom event processing and application logic.
+
 
 ### Installation and Setup
 
