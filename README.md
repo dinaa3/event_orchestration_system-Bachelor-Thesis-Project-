@@ -15,7 +15,6 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
 
 - **Cloud-Native Architecture**:
   - Implements AWS CloudTrail for event tracking and auditing.
-  - Uses AWS EC2 instances for running custom processes and computations.
 
 - **Real-Time Event Handling**:
   - Processes and emits events in real-time using custom event emitters.
