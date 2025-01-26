@@ -62,18 +62,15 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
    pip install -r requirements.txt
    ```
 
-3. Configure AWS CLI:
-   ```bash
-   aws configure
-   ```
 
-4. Deploy ML models to SageMaker:
+
+3. Deploy ML models to SageMaker:
    - Use the provided Jupyter Notebook `sendEventsToSageMaker.ipynb` to deploy the DistilBERT model.
 
-5. Run the Event Orchestration workflow:
+4. Run the Event Orchestration workflow:
    - Execute the `EventOrchestration.ipynb` notebook to initiate workflows.
 
-6. Monitor logs and outputs:
+5. Monitor logs and outputs:
    - Use AWS CloudTrail and CloudWatch for tracking execution.
 
 ### Future Enhancements
