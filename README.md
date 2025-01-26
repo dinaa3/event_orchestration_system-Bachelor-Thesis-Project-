@@ -23,7 +23,7 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
 ### Technology Stack
 
 - **Backend**: Python (Jupyter Notebooks for prototyping and implementation).
-- **Cloud Platform**: AWS (SageMaker, Step Functions, CloudTrail, EC2).
+- **Cloud Platform**: AWS (SageMaker, Step Functions, CloudTrail, EC2, lambda).
 - **Machine Learning**: Transformers (DistilBERT) for natural language processing.
 - **Tools**: AWS CLI, Boto3 SDK, Jupyter Notebooks.
 
