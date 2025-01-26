@@ -55,12 +55,7 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
    cd event-orchestration-system
    ```
 
-2. Set up Python environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate # On Windows: venv\Scripts\activate
-   pip install -r requirements.txt
-   ```
+2. Set up python environment
 
 
 
