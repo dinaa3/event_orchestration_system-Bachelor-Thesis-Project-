@@ -72,7 +72,7 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
 
 - Incorporate additional AWS services (e.g., Lambda, DynamoDB) for extended functionality.
 - Develop a web-based dashboard for real-time event monitoring.
-- Enhance ML models for more accurate event predictions and decisions.
+- Enhance ML models for more accurate event predictions and decisions through continous model training.
 
 ---
 
