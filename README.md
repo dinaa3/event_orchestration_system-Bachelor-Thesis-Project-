@@ -76,4 +76,4 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
 
 ---
 
-Feel free to explore and contribute to this project. For any queries or suggestions, please contact the project maintainers. Let's harness the power of AWS and ML to build intelligent systems together!
+Feel free to explore and contribute to this project. For any queries or suggestions, please contact the project maintainers. Let's harness the power of AWS and ML to build intelligent systems together.
