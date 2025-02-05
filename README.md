@@ -66,7 +66,7 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
    - Execute the `EventOrchestration.ipynb` notebook to initiate workflows.
 
 5. Monitor logs and outputs:
-   - Use AWS CloudTrail and CloudWatch for tracking execution.
+   - Use AWS CloudTrail and CloudWatch for tracking execution!
 
 ### Future Enhancements
 
