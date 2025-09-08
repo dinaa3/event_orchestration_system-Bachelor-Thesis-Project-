@@ -1,7 +1,7 @@
 # Event Orchestration System Using AWS Services
 
 ## Project Description
-This project is a Bachelor Thesis focused on building an Event Orchestration System utilizing AWS services, machine learning models, and advanced cloud-native technologies. The system leverages the capabilities of AWS SageMaker, CloudTrail, EC2, and Step Functions to orchestrate events effectively. Additionally, it incorporates machine learning models, including the DistilBERT transformer, for intelligent event processing and decision-making.
+This project is a Bachelor Thesis focused on building an Event Orchestration System utilizing AWS services and a transformer based machine learning model. The system leverage multiple AWS services including CloudTrail for gathering data related to AWS Cloud events, AWS SageMaker for hosting the ML model, Step Functions to orchestrate events,  Lambda to execute different actions and EventBridge to trigger the workflow.
 
 ### Features
 
@@ -10,14 +10,14 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
   - Seamless communication between AWS services for event coordination.
 
 - **Machine Learning Integration**:
-  - Utilizes the DistilBERT transformer for NLP-based event insights.
-  - Deploys ML models to AWS SageMaker for scalable and efficient inference.
+  - Utilizes the DistilBERT transformer for predicting the sources.
+  - Deploys ML model to AWS SageMaker for scalable and efficient inference.
 
 - **Cloud-Native Architecture**:
   - Implements AWS CloudTrail for event tracking and auditing.
 
 - **Real-Time Event Handling**:
-  - Processes and emits events in real-time using custom event emitters.
+  - Processes and emits events in real-time using event emitters.
   - Ensures low-latency and high-availability performance.
 
 ### Technology Stack
@@ -25,7 +25,6 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
 - **Backend**: Python (Jupyter Notebooks for prototyping and implementation).
 - **Cloud Platform**: AWS (SageMaker, Step Functions, CloudTrail, EC2, lambda).
 - **Machine Learning**: Transformers (DistilBERT) for natural language processing.
-- **Tools**: AWS CLI, Boto3 SDK, Jupyter Notebooks.
 
 ### Key AWS Services Used
 
@@ -39,7 +38,12 @@ This project is a Bachelor Thesis focused on building an Event Orchestration Sys
 3. **AWS CloudTrail**:
    - Tracks API calls and records event logs for auditing purposes.
 
-
+4. **AWS EventBridge**:
+   - Triggers the orchestration workflow.
+  
+5. **AWS Lambda Function**:
+   - For generating different events.
+   - Executing event actions.
 
 ### Installation and Setup
 
